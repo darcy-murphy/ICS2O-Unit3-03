@@ -1,6 +1,6 @@
 // Copyright (c) 2022 Darcy Murphy All rights reserved
 //
-// Created by: Darcy Murphy 
+// Created by: Darcy Murphy
 // Created on: Oct 2022
 // This file contains the JS functions for index.html
 
@@ -29,4 +29,3 @@ function enterClicked() {
   document.getElementById("volume-of-sphere").innerHTML =
     "The volume of the sphere is: " + volume.toFixed(2) + " cm³."
 }
-
